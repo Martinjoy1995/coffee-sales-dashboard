@@ -24,6 +24,8 @@ This project is a dynamic Excel dashboard designed to visualize and analyze coff
 * Data Cleaning & Structuring
 
 ---
+## 🖼 Preview
+[Dashboard Preview](coffeesales-preview.png)
 
 ---
 
